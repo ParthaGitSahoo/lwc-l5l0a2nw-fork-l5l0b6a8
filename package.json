@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/parthagitsahoo.lwc-l5l0a2nw-fork-l5l0b6a8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve YzXyipDr0zAtCcA7e62D --open"
+  }
+}
